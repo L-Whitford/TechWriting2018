@@ -14,3 +14,5 @@ Model and activist [Tess Holliday](https://www.thisisinsider.com/category/tess-h
 ## But LPA says it's not what it looks like.
 
 LPA has since responded 
+
+[Source](https://www.msn.com/en-us/lifestyle/lifestyle-buzz/a-retailer-is-being-called-out-for-selling-a-fat-shaming-sweatshirt-—-but-the-brand-says-its-the-opposite-of-what-it-seems/ar-BBNeWAN?ocid=spartanntp)

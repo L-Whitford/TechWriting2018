@@ -1,5 +1,4 @@
-# How to Start a Food Blog
-
+[Example of a blog banner made in about 2 seconds on Canva.com](https://github.com/L-Whitford/TechWriting2018/blob/master/How%20to%20Start%20a%20Food%20Blog.png?raw=true)
 ## Writing an informational blog about food for academic purposes
 --------
 ## Introduction

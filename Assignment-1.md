@@ -1,3 +1,6 @@
+{Incomplete draft} I want to make sure that the instructions are complete. Would you be able to do this process based off my instructions, or would you need to look up additonal information? What questions do you have about the process that I could include in my FAQs or add in? Do I need to add steps?
+-------------
+
 ![Sample of blog banner made on Canva.com in about 1 minute](https://github.com/L-Whitford/TechWriting2018/blob/master/How%20to%20Start%20a%20Food%20Blog.png)
 ## A Student's Guide to Their First Blog Post
 --------

@@ -1,10 +1,10 @@
 ![Sample of blog banner made on Canva.com in about 1 minute](https://github.com/L-Whitford/TechWriting2018/blob/master/How%20to%20Start%20a%20Food%20Blog.png)
-## Writing an informational blog about food for academic purposes
+## A Student's Guide to Their First Blog Post
 --------
 ## Introduction
-Considering the technologically driven world that we live in today, it should be of no surprise that people generally rely upon the internet to get most of their information. This fact can be frustrating for health and nutrition professionals, as many of their clients would rather trust the results of an internet search rather than the professional themselves. However, a client's love of the internet can be leveraged for good, and many registered dietitian nutritionists have been taking advantage of this love by using blogging platforms to educate the public. These blogs must be not only accurate, but also must be fun and engaging so that the reader will be encouraged to read on. 
+Considering the technologically driven world that we live in today, it should be of no surprise that people generally rely upon the internet to get most of their information. This fact can be frustrating for health and nutrition professionals, as many of their clients would rather trust the results of an internet search instead of the professionals themselves. However, a client's love of the internet can be leveraged for good, and many registered dietitian nutritionists have been taking advantage of this love by using blogging platforms to educate the public. These blogs must be not only accurate, but also must be fun and engaging so that the reader will be encouraged to read on. 
 
-Learning to make an accurate and engaging blog post about food is an important step in the education of a future dietitian. As such, you may be required to post at least once on your own blogging platform for a class assignment. It is helpful for your first blog post to be done under the supervision of a professor, so that you will have a safe space in which to develop and practice this skill, and so you may receive constructive feedback from professors and peers. The purpose of this document is to help you with the setup of your very first blog post, so that you may focus your energy on finding a compelling topic rather than spending hours trying to figure out how to use the blogging platform as I did when I wrote my first food blog.
+Learning to make an accurate and engaging blog post about food is an important step in the education of a future dietitian. As such, you may be required to post at least once on your own blog for a class assignment. It is helpful for your first blog post to be done under the supervision of a professor, so that you will have a safe space in which to develop and practice this skill, and so you may receive constructive feedback from professors and peers. The purpose of this document is to help you with the setup of your very first blog post, so that you may focus your energy on finding a compelling topic rather than spending hours trying to figure out how to use the blogging platform as I did when I wrote my first food blog.
 
 ## Step One: Chosing your Topic
 
@@ -46,3 +46,12 @@ You have chosen your topic. You have made a lovely blog banner and logo. You hav
 My best advice for editing is to send the raw version of your blog to *every. single. person. you. know.* Well, that may be an exxageration. But get the input of at least three well trusted peers/ mentors. Fresh eyes on your blog, especially if you have been working on it a while, will help for find spelling errors and parts of your content where maybe the wording gets weird. In addition to have a few friends look things over, it's a good idea to let your blog sit for a few hours or maybe until the next day before you reread it and edit it. Once you feel confident that your post is fully prepared and edited, you are ready to publish your first blog post!
 
 It should be noted that once you have completed these steps, you will have started a food blog. The continuation and promotion of the blog, as well as researching additional topics are all other processes that can be explained through further [research](https://www.google.com/).
+
+## FAQs
+Q: What sort of pictures should I include in my blog post?
+
+A: The pictures that you include in your blog post should be A) applicable to the subject and B) look nice. That means that while that glamour shot of your new puppy is adorable, it will likely not fit in the theme of your blog post. By the same token, the pictures should not be hastily taken photos taken on a crappy phone camera. This goes back to what I said earlier about this blog representing you: you want to publish something you're proud of.
+
+Q: How do I cite my sources in the blog form? APA?
+
+A: While APA lends itself well for every other paper you will write, it looks kinda clunky in a blog format. The way I cite sources in my blogging is to 

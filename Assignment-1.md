@@ -1,4 +1,4 @@
-# How to Start a Food Blog (pic here)
+![Sample of blog banner made on Canva.com in about 1 minute](https://github.com/L-Whitford/TechWriting2018/blob/master/How%20to%20Start%20a%20Food%20Blog.png)
 ## Writing an informational blog about food for academic purposes
 --------
 ## Introduction
@@ -7,9 +7,12 @@ Considering the technologically driven world that we live in today, it should be
 Learning to make an accurate and engaging blog post about food is an important step in the education of a future dietitian. As such, you may be required to post at least once on your own blogging platform for a class assignment. It is helpful for your first blog post to be done under the supervision of a professor, so that you will have a safe space in which to develop and practice this skill, and so you may receive constructive feedback from professors and peers. The purpose of this document is to help you with the setup of your very first blog post, so that you may focus your energy on finding a compelling topic rather than spending hours trying to figure out how to use the blogging platform as I did when I wrote my first food blog.
 
 ## Step One: Chosing your Topic
+
+![Use your favorite search engine to find your topic](https://github.com/L-Whitford/TechWriting2018/blob/master/Nondescript%20Search%20Engine.png)
+
 This may seem like a self explanatory step, and to some extent it is, but there are a few things to consider when chosing your topic that you may not have thought of yourself. 
 
-1. When chosing your topic, you first want to consider the audience that you are writing to. What will they want to read about? What sort of information will be helpful for them to know? For example, my first blog post was written for a class I took in Spring of 2018 when I was a junior at college. The blog post was about making good food choices in the cafeteria, something that my peers at school were particularly concerned about. If you are having issues deciding on a topic, just think, what would I want to read about? If you do lots of research about food for your classes, maybe consider looking through your search history to see what topics are relevant to you at the time. Chances are, what you are interested in learning about is something that your peers or your audience may want to know about as well.
+When chosing your topic, you first want to consider the audience that you are writing to. What will they want to read about? What sort of information will be helpful for them to know? For example, my first blog post was written for a class I took in Spring of 2018 when I was a junior at college. The blog post was about making good food choices in the cafeteria, something that my peers at school were particularly concerned about. If you are having issues deciding on a topic, just think, what would I want to read about? If you do lots of research about food for your classes, maybe consider looking through your search history to see what topics are relevant to you at the time. Chances are, what you are interested in learning about is something that your peers or your audience may want to know about as well.
 
 Next, you want to find something that not everyone and their dog has written about. It's okay to use other blogs and articles as jumping off points, but you need something that will distinguish your food blog from the rest. What makes your topic or your take on the topic unique?
 
@@ -31,4 +34,6 @@ And please, please, **please** do not neglect to include pictures. I don't care 
 ## Step Five: Edit, Edit, Edit
 You have chosen your topic. You have made a lovely blog banner and logo. You have wonderful content with just the right amount of helpful images. Time to click publish, right? **WRONG** You, my friend, need to spend some quality time editing. As I said in the last section, you want this blog post to be something you're proud of. This blog post will represent you for eternity on the internet. When I put it that way, doesn't it seem like a good idea to spend some time perfecting your wording?
 
-My best advice for editing is to send the raw version of your blog to *every. single. person. you. know.* Well, that may be an exxageration. But get the input of at least three well trusted peers/ mentors. Fresh eyes on your blog, especially if you have been working on it a while, will help for find spelling errors and parts of your content where maybe the wording gets weird. In addition to have a few friends look things over, it's a good idea to let your blog sit for a few hours or maybe until the next day before you reread it and edit it. 
+My best advice for editing is to send the raw version of your blog to *every. single. person. you. know.* Well, that may be an exxageration. But get the input of at least three well trusted peers/ mentors. Fresh eyes on your blog, especially if you have been working on it a while, will help for find spelling errors and parts of your content where maybe the wording gets weird. In addition to have a few friends look things over, it's a good idea to let your blog sit for a few hours or maybe until the next day before you reread it and edit it. Once you feel confident that your post is fully prepared and edited, you are ready to publish your first blog post!
+
+It should be noted that once you have completed these steps, you will have started a food blog. The continuation and promotion of the blog, as well as researching additional topics are all other processes that can be explained through further [research](https://www.google.com/).

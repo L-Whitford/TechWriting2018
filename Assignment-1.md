@@ -1,5 +1,5 @@
 ![Sample of blog banner made on Canva.com in about 1 minute](https://github.com/L-Whitford/TechWriting2018/blob/master/How%20to%20Start%20a%20Food%20Blog%20(1).png)
-## A Dietetic Student's Guide to Their First Blog Post
+## A Dietetic Student's Guide to Their First Blog Post  
 --------
 ## Introduction
 Considering the technologically driven world that we live in today, it should be of no surprise that people generally rely upon the internet to get most of their information. This fact can be frustrating for health and nutrition professionals, as many of their clients would rather trust the results of an internet search instead of the professionals themselves. However, a client's love of the internet can be leveraged for good, and many registered dietitian nutritionists have been taking advantage of this love by using blogging platforms to educate the public. These blogs must be not only accurate, but also must be fun and engaging so that the reader will be encouraged to read on. 

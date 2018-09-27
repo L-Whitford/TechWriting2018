@@ -1,4 +1,4 @@
-![Sample of blog banner made on Canva.com in about 1 minute](https://github.com/L-Whitford/TechWriting2018/blob/master/How%20to%20Start%20a%20Food%20Blog.png)
+![Sample of blog banner made on Canva.com in about 1 minute](https://github.com/L-Whitford/TechWriting2018/blob/master/How%20to%20Start%20a%20Food%20Blog%20(1).png)
 ## A Dietetic Student's Guide to Their First Blog Post
 --------
 ## Introduction

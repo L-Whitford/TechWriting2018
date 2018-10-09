@@ -26,3 +26,4 @@
 **So Why Does This Work?**
 
 Dr. Canapari writes about a topic that is relevant to everyone; everyone has to sleep, and most people have trouble. He especially focuses his attention on parents who are wanting to regulate their child's sleep schedule. He writes with authority about topics such as melatonin and sleep training, yet uses language that is easy for the layperson to understand. His use of videos and graphs adds further clarity when conveying information.
+

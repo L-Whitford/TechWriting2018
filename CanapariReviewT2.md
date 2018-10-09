@@ -3,22 +3,25 @@
 ## Sleep blog by Canapari, MD
 
 1. Value
--Parents need sleep
--Kids stay up late during the summer
--Kids can't stay up late during the school year and be successful
--Very few parents know how to get their kiddos back on a schedule
--Canapari is an MD (credible source)
+
+- Parents need sleep
+- Kids stay up late during the summer
+- Kids can't stay up late during the school year and be successful
+- Very few parents know how to get their kiddos back on a schedule
+- Canapari is an MD (credible source)
 
 2. Key terms/ Topics
--Sleep is important
--How much sleep needed
--Sleep training
--Sleep in teens
+
+- Sleep is important
+- How much sleep needed
+- Sleep training
+- Sleep in teens
 
 3. Media
--use of graphs to explain complex data
--good at responding to comments
--uses video for extra explanation
+
+- use of graphs to explain complex data
+- good at responding to comments
+- uses video for extra explanation
 
 **So Why Does This Work?**
 

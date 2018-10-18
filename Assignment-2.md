@@ -1,13 +1,7 @@
-# Assignment Two
+# Why Would I Want To Eat Like A Bunch of Old Greek Dudes?
 
-## by Lindsey Whitford
+## A Brief Introduction into the Mediterranean Diet
 
-My topic for the second assignment is specific diets, focusing on fad dieting (Ketogenic, Atkins, etc). I'm going to focus in on the Ketogenic diet for the assignment. The first post will be a general overview of the diet, the second will be science behind it, and the following will either be more info on the Keto diet or a new diet and a look at the science of it. If I were to maintain this blog past the assignment, I could find plenty of material on the diets with new opinions, celebrities who are doing the diet, and new science on the diet. There are also new fad diets practically all the time, so I think I would have plenty of content to maintain a blog for quite some time.
+If you tend to follow diet trends at all, or even just have access to the outside world, you have likely heard of the Mediterranean diet. The point of the Mediterranean diet is to eat like people ate in [1960s Italy and Greece](https://www.healthline.com/nutrition/mediterranean-diet-meal-plan), which supposedly is great for your [heart and health in general](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/mediterranean-diet/art-20047801). 
 
-Post 1: An Introduction into Mediterranean
-
-Post 2: An Introduction into Veganism
-
-Post 3: An Introduction into Raw Foods Diet
-
-Post 4: An Introduction into Keto
+Even though everyone and their dog has *heard* of this magical, fish-filled diet

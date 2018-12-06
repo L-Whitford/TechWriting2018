@@ -63,3 +63,4 @@ A: Ultimately, the blog length is totally up to you, and should be altered based
 Q: Can I use pictures I find on the internet?
 
 A: This one is kinda tricky. Because blogs are in the public eye, and people get real touchy about other people stealing their content, I like to take my own pictures. But hey, maybe I'm just a chicken! If you *really* are in a pinch and need pics from the internet, I would say hit up the free stock photo cites. Or **vigilantly** research how to cite pictures/ whether the picture you want has a copyright.
+ 
